@@ -1,0 +1,4 @@
+[submodule "DevOsubMod"]
+	path = DevOsubMod
+	url = https://github.com/AnnuCh/Devops.git
+	branch = master
